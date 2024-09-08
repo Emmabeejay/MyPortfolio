@@ -22,7 +22,6 @@ cd <Directory of choice e.g C:\>
 ```bash
 git clone https://github.com/Emmabeejay/MyPortfolio.git
 ```
-![image](https://github.com/user-attachments/assets/9e6ae7a7-1cad-491a-905b-5226b2d0e170)
 #### 2. Navigate to the Project Directory
 ##### After cloning the repository, navigate to the project directory:
 ```bash
