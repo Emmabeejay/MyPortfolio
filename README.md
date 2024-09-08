@@ -17,6 +17,6 @@ Open your terminal (or Git Bash on Windows), and run the following command to cl
 
 ```bash
 git clone https://github.com/Emmabeejay/MyPortfolio.git
-```bash
+```
 
 ![image](https://github.com/user-attachments/assets/9e6ae7a7-1cad-491a-905b-5226b2d0e170)
