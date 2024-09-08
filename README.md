@@ -22,12 +22,12 @@ cd <Directory of choice e.g C:\>
 ```bash
 git clone https://github.com/Emmabeejay/MyPortfolio.git
 ```
-#### 2. Navigate to the Project Directory
+#### 3. Navigate to the Project Directory
 ##### After cloning the repository, navigate to the project directory:
 ```bash
 cd MyPortfolio
 ```
-#### 3. Open the Website Files
+#### 4. Open the Website Files
 ##### You can now open the website files in your web browser by opening the index.html file (or other entry point, if different):
 
 ##### If you’re using a text editor like Visual Studio Code, you can also open the project folder and use its integrated live server feature.
