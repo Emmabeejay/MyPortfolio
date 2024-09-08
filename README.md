@@ -12,6 +12,15 @@ This private repository contains the source code and assets for my portfolio pro
 
 ## Getting Started
 Follow the instructions below to clone the repository and view the website files.
+## Example Bash Script
+
+Here’s a sample bash script you can copy and use:
+
+```bash
+#!/bin/bash
+# This script outputs Hello, World! to the console
+
+echo "Hello, World!"
 
 1. Clone the Repository
 Open your terminal (or Git Bash on Windows), and run the following command to clone this repository:
