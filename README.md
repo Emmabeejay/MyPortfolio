@@ -21,6 +21,7 @@ Here’s a sample bash script you can copy and use:
 # This script outputs Hello, World! to the console
 
 echo "Hello, World!"
+```
 
 1. Clone the Repository
 Open your terminal (or Git Bash on Windows), and run the following command to clone this repository:
