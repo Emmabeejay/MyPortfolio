@@ -12,7 +12,7 @@ This private repository contains the source code and assets for my portfolio pro
 
 ## Getting Started
 Follow the instructions below to clone the repository and view the website files.
-1. Clone the Repository
+1. Clone the Repository.
 Open your terminal (or Git Bash on Windows), and run the following command to clone this repository:
 
 ```bash
