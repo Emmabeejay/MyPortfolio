@@ -12,24 +12,11 @@ This private repository contains the source code and assets for my portfolio pro
 
 ## Getting Started
 Follow the instructions below to clone the repository and view the website files.
-## Example Bash Script
-
-Here’s a sample bash script you can copy and use:
-
-```bash
-#!/bin/bash
-# This script outputs Hello, World! to the console
-
-echo "Hello, World!"
-```
-
 1. Clone the Repository
 Open your terminal (or Git Bash on Windows), and run the following command to clone this repository:
 
 ```bash
-#!/bin/bash
-# This is a simple example script
-git clone https://github.com/your-username/your-repo-name.git
-
+git clone https://github.com/Emmabeejay/MyPortfolio.git
 ```bash
+
 ![image](https://github.com/user-attachments/assets/9e6ae7a7-1cad-491a-905b-5226b2d0e170)
