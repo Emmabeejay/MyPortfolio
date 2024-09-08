@@ -19,10 +19,6 @@ Open your terminal (or Git Bash on Windows), and run the following command to cl
 ```bash
 #!/bin/bash
 # This is a simple example script
-
-echo "Hello, World!"
-
-bash
-Copy code
 git clone https://github.com/your-username/your-repo-name.git
 ![image](https://github.com/user-attachments/assets/9e6ae7a7-1cad-491a-905b-5226b2d0e170)
+```bash
