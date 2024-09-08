@@ -16,6 +16,12 @@ Follow the instructions below to clone the repository and view the website files
 1. Clone the Repository
 Open your terminal (or Git Bash on Windows), and run the following command to clone this repository:
 
+```bash
+#!/bin/bash
+# This is a simple example script
+
+echo "Hello, World!"
+
 bash
 Copy code
 git clone https://github.com/your-username/your-repo-name.git
