@@ -12,10 +12,27 @@ This private repository contains the source code and assets for my portfolio pro
 
 ## Getting Started
 ### Follow the instructions below to clone the repository and view the website files.
-#### 1. Clone the Repository:
+#### 1. Navigate to a directory on your local machine you would like the files saved to:
 ##### Open your terminal (or Git Bash on Windows), and run the following command to clone this repository:
-##### ```bash
+```bash
+cd <Directory of choice e.g C:\>
+```
+#### 2. Clone the Repository:
+##### Open your terminal (or Git Bash on Windows), and run the following command to clone this repository:
+```bash
 git clone https://github.com/Emmabeejay/MyPortfolio.git
 ```
-
 ![image](https://github.com/user-attachments/assets/9e6ae7a7-1cad-491a-905b-5226b2d0e170)
+#### 2. Navigate to the Project Directory
+##### After cloning the repository, navigate to the project directory:
+```bash
+cd MyPortfolio
+```
+#### 3. Open the Website Files
+##### You can now open the website files in your web browser by opening the index.html file (or other entry point, if different):
+
+##### If you’re using a text editor like Visual Studio Code, you can also open the project folder and use its integrated live server feature.
+##### Alternatively, if you are running a server locally (like with Node.js or Python), start your server and visit http://localhost:3000 (or your server’s port).
+
+## License
+### This project is licensed under Notchedit License - see the LICENSE file for details.
