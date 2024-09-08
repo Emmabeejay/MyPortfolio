@@ -34,4 +34,4 @@ cd MyPortfolio
 ##### Alternatively, if you are running a server locally (like with Node.js or Python), start your server and visit http://localhost:3000 (or your server’s port).
 
 ## License
-### This project is licensed under Notchedit License - see the LICENSE file for details.
+#### This project is licensed under Notchedit License - see the LICENSE file for details.
